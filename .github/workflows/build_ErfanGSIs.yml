@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://sourceforge.net/projects/andyyan-gsi/files/latest/download
-  ROM_NAME: LOS
+  ROM_URL: https://ava3.androidfilehost.com/dl/7tQtPjtZtDETiHKaHFy-Lw/1614544195/890129502657591179/aokp_sagit_oreo__2018-03-17_0527-treble.zip
+  ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
   ZIP_NAME: m12.5
