@@ -9,7 +9,7 @@ env:
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: m12.5
+  ZIP_NAME: aosp-ane-userdebug
 jobs:
   build:
     runs-on: ubuntu-latest
