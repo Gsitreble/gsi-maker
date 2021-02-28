@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://leos-gsi.de/downloads/20210202-RW-bvS.img.xz
+  ROM_URL: https://storage.googleapis.com/android-build/builds/aosp-master-linux-aosp_arm64-userdebug/7155427/f197dee84da27d19878a653db262778b89a7f4062cc85bf4f2251ffc0f533975/aosp_arm64-target_files-7155427.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
