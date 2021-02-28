@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl.google.com/developers/android/rvc/images/gsi/aosp_arm64-exp-RP1A.200720.009-6720564-019b517d.zip
+  ROM_URL: https://leos-gsi.de/downloads/20210202-RW-bvS.img.xz
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
