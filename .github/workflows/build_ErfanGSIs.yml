@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mirrorbits.lineageos.org/full/anne/20210125/lineage-16.0-20210125-nightly-anne-signed.zip4f2251ffc0f533975/aosp_arm64-target_files-7155427.zip
+  ROM_URL: https://ci.android.com/builds/submitted/7158211/aosp_arm64_ab-userdebug/latest/aosp_arm64_ab-img-7158211.zip7155427.zip
   ROM_NAME: Lineage
   TZ: Asia/Kolkata
   MIR: wet
