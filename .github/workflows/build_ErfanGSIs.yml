@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ci.android.com/builds/submitted/7158211/aosp_arm64_ab-userdebug/latest/aosp_arm64_ab-img-7158211.zip7155427.zip
-  ROM_NAME: Lineage
+  ROM_URL: https://dl.google.com/developers/android/rvc/images/gsi/aosp_arm64-exp-RP1A.200720.009-6720564-019b517d.zip
+  ROM_NAME: LaOS
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: aosp-ane-userdebug
+  ZIP_NAME: aosp-laos-ane-userdebug
 jobs:
   build:
     runs-on: ubuntu-latest
